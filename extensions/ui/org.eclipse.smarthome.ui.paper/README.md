@@ -2,7 +2,7 @@
 
 The Paper UI is an HTML5 web application. The Paper UI implements Google's Material Design and is responsive, so that it smoothly renders on different screen sizes. All modern browsers (Safari, Chrome, Firefox) besides the Internet Explorer are supported in their newest version. The Internet Explorer is mainly lacking support for SSE.
 
-Note that the Paper UI currently only supports limited use cases. It is mainly meant for setup and administration purposes, not for operation, for which you should rather refer to the [Basic UI](../basic/readme.html).
+Note that the Paper UI currently only supports limited use cases. It is mainly meant for setup and administration purposes, not for operation, for which you should rather refer to the [Basic UI](../org.eclipse.smarthome.ui.basic/readme.html).
 
 Even for setup and administration purposes, there are many features not yet available, which can be done through textual configuration, i.e. complex item definitions with grouping, sitemap definitions, textual rules and scripts, configuration of persistence, etc.
 Therefore power users are advised to prefer textual configuration over the pure use of the Paper UI.
